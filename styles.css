@@ -1,0 +1,20 @@
+html {
+    background-color: darksalmon;
+}
+
+h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', sans-serif;
+}
+
+p, li {
+    font-weight: 100;
+}
+
+h2, p, li {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h2 {
+    font-weight: bolder;
+}
+
